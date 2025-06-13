@@ -1,0 +1,213 @@
+{
+  "empresa": {
+    "nombre": "Financiera del Norte",
+    "quienes_somos": "Somos el aliado en la transformación Digital del sector cooperativo y solidario, enfocado en la prestación de servicios innovadores y de fácil acceso, que contribuyan al desarrollo empresarial e inclusión financiera.\nInterpretamos las necesidades de nuestro mercado objetivo, para potenciar su desarrollo con servicios transaccionales y tecnológicos."
+  },
+  "oficinas": [
+    {
+      "ciudad": "BARRANQUILLA",
+      "nombre_sucursal": "CENTRO",
+      "direccion": "CARRERA 44 NO 44",
+      "telefono": "6 3408650"
+    },
+    {
+      "ciudad": "BARRANQUILLA",
+      "nombre_sucursal": "PRADO",
+      "direccion": "CARRERA 53 NO 74",
+      "telefono": "66 3453988"
+    },
+    {
+      "ciudad": "SOLEDAD",
+      "nombre_sucursal": "CORRESPONSAL",
+      "direccion": "CALLE 18 # 21 - 113",
+      "telefono": "6802000 EXT 1490 3930897"
+    }
+  ],
+  "horarios": {
+    "lunes": "8–11:30 a.m., 2–5 p.m.",
+    "martes": "8–11:30 a.m., 2–5 p.m.",
+    "miercoles": "8–11:30 a.m., 2–5 p.m.",
+    "jueves": "8 a.m.–5 p.m.",
+    "viernes": "8–11:30 a.m., 2–5 p.m.",
+    "sabado": "Cerrado",
+    "domingo": "Cerrado"
+  },
+  "detalle_servicio": [
+    {
+      "nombre": "Banca Digital",
+      "descripcion": "Plataforma de canal que provee las herramientas Mobile y Web más eficaces para que las entidades, sirvan y fidelicen a sus asociados mediante banca electrónica de clase mundial.",
+      "sub_servicios_texto": "Banca Online – Banca Móvil- Banca Conversacional",
+      "caracteristicas": [
+        "Transferencias",
+        "Pagos",
+        "Consultas",
+        "Monitoreo",
+        "Planificación de pagos",
+        "Comunicación"
+      ]
+    },
+    {
+      "nombre": "Plataforma de Transacciones Digitales",
+      "descripcion": "Es la red de pagos digitales del sector solidario, que permite realizar transacciones de una manera práctica, ágil, segura y económica; bajo los más altos estándares de seguridad del sistema financiero.\n\nProporcionamos a las entidades solidarias la plataforma transaccional con un botón de pagos, para que desde ella se puedan realizar cualquier tipo de pagos de bienes y servicios, incluyendo recargas de telefonía celular, paquetes móviles, televisión, entre otros servicios prepagados.",
+      "beneficios": [
+        "Conexión de la Cooperativa a una red de pagos digitales.",
+        "Fácil acceso a servicios innovadores.",
+        "Transacciones en tiempo real.",
+        "Rentabilidad por transacción."
+      ]
+    },
+    {
+      "nombre": "Procesamiento de Tarjetas Débito, Crédito y Prepago",
+      "descripcion": "Solución integral de Switch y Plataforma de administración de tarjetas débito, crédito y prepago de membresía Visa, Mastercard y privadas.",
+      "caracteristicas": [
+        "Se cuenta con la información en línea, a través de interfaces diseñadas para que el usuario interactúe con la aplicación y tenga determinado control en la gestión misma de las tarjetas."
+      ]
+    }
+  ],
+  "tasas_tarifas_info": {
+    "titulo": "Conoce las tasas vigentes de nuestro portafolio de ahorro e inversión",
+    "descripcion": "sintesis es una referencia de las tasas y tarifas vigentes que  ofrece Financiera del Norte a sus clientes, no obstante, y dependiendo de la reciprocidad del cliente entre otras variables, el banco podrá negociar tasas diferenciales en condiciones de mercado y prevaleciendo la rentabilidad del producto. * Los rendimientos de los productos constituidos antes de la fecha indicada en cada apartado, se liquidan de acuerdo a la síntesis vigente a la fecha de apertura del producto. ** La Cuenta Ágil es una cuenta de Depósito de Bajo Monto reglamentada por el Gobierno Nacional para facilitar la bancarización de los colombianos, por lo que el saldo máximo permitido por mes en la cuenta es hasta de ocho (8) SMMLV. *** El P.A.P tendrá un rendimiento mínimo mensual de acuerdo con las tasas que estén vigentes al momento de la liquidación, su liquidación es diaria pero la rentabilidad se entrega al cumplir el tiempo y cuota pactada."
+  },
+  "faq": [
+    {
+      "pregunta": "¿Cómo puedo obtener mi clave de acceso a Banca Móvil?",
+      "respuesta": "Descarga en tu celular el APP de Banca Móvil en las tiendas Play Store y App Store, luego en la aplicación ingresa al ícono BANCA MÓVIL, diligencia el formulario y listo, así de fácil."
+    },
+    {
+      "pregunta": "Olvidé mi clave de acceso a Banca Móvil, ¿Cómo puedo restablecerla?",
+      "respuesta": "Ingresa a tu Banca Móvil, luego en el menú de BANCA MÓVIL encontrarás la opción de Olvidó su clave, diligencia los datos que te piden y listo, así de fácil."
+    },
+    {
+      "pregunta": "¿Qué transacciones puedo realizar por mi Banca Móvil?",
+      "respuesta": "A través de tu Banca Móvil, podrás realizar:\n• Consultar saldos.\n• Consultar nuestras Oficinas y Cajeros Automáticos.\n• Transferencias entre cuentas Financiera del Norte\n• Transferencias a otros Bancos Nacionales.\n• Avances de Tarjeta de Crédito.\n• Avances de Cupo Activo.\n• Pagos de servicios Matriculados.\n• Pagos de Estado de Cuenta.\n• Recargas.\n• Pagos de Tarjeta de Crédito."
+    },
+    {
+      "pregunta": "¿ Financiera del Norte  me cobra comisiones por el uso de mi Banca Móvil?",
+      "respuesta": "Si, dependiendo de la transacción. Para conocer este detalle te invitamos a consultar a través de www. Financiera del Norte.com.co en la parte inferior, opción tasas y tarifas y/o en nuestras oficinas físicas."
+    },
+    {
+      "pregunta": "¿Cómo matriculo una cuenta para realizar transferencia a través de mi Banca Móvil?",
+      "respuesta": "Debes ingresar a tu banca móvil, dar clic en Transferencias, seguido de cuentas matriculadas y en la parte superior encontrarás el botón Inscribir cuenta, diligencia el formulario y listo, así de fácil."
+    },
+    {
+      "pregunta": "En caso de cambiar el número celular, ¿qué debo hacer para que funcione mi Banca Móvil?",
+      "respuesta": "Debes seguir los siguientes pasos:\n• Ingresar a la Oficina Virtual en el menú Otros servicios.\n• Escoger la opción modificar número de celular registrado."
+    },
+    {
+      "pregunta": "En caso de cambiar mi Equipo Celular, ¿qué debo hacer para que funcione mi Banca Móvil?",
+      "respuesta": "Debes seguir los siguientes pasos:\n• Descargar nuevamente la aplicación de Banca Móvil del store.\n• Ingresar a tu Banca móvil con la clave que tenías y listo."
+    },
+    {
+      "pregunta": "¿Cómo puedo obtener mi clave y usuario de acceso a la Oficina virtual de Financiera del Norte?",
+      "respuesta": "1. Ingresa a www.bancoomeva.com.co y ubica la opción Transacciones-Oficina Virtual.\n2. Selecciona la opción “Regístrate aquí” y diligencia los campos solicitados por el sistema"
+    },
+    {
+      "pregunta": "Olvidé mi clave de acceso a la Oficina Virtual, ¿Cómo puedo restablecerla?",
+      "respuesta": "Ten en cuenta los siguientes pasos:\n1. Ingresa a www. Financiera del Norte.com.co y ubica la opción Transacciones-Oficina Virtual.\n2. En la Oficina Virtual ingresa a la opción Olvido o Bloqueo de Contraseña\n3. Diligencia los campos solicitados por el sistema."
+    },
+    {
+      "pregunta": "¿Qué pasa si la imagen y frase de seguridad que aparecen al momento de ingresar a la Oficina Virtual no son las que asigné durante mi registro?",
+      "respuesta": "En este caso, debes cerrar la página en la que te encuentras e ingresar de nuevo digitando en tu navegador: www. Financiera del Norte.com.co, accede con tu usuario y valida de nuevo. Si el error continúa, comunícate con nuestro call center y reporta tu caso."
+    },
+    {
+      "pregunta": "¿Si matriculé una cuenta en la Oficina Virtual de Financiera del Norte y voy a realizar la transferencia en una oficina física de Financiera del Norte, debo inscribir nuevamente la cuenta en la Oficina?",
+      "respuesta": "No, la inscripción de las cuentas se realiza una sola vez sin importar donde lo hiciste, ya sea por la Oficina física o por la Oficina Virtual."
+    },
+    {
+      "pregunta": "¿Puedo realizar transferencias de fondos entre cuentas Financiera del Norte?",
+      "respuesta": "Sí, puedes realizar transferencias a cuentas de Financiera del Norte a través de nuestra Oficina Virtual en www. Financiera del Norte.com.co por la opción transferencias y también en las Oficinas físicas de Financiera del Norte, con previa matricula de dichas cuentas."
+    },
+    {
+      "pregunta": "¿Puedo realizar transferencias de fondos hacia cuentas de otros bancos?",
+      "respuesta": "Sí, puedes realizar transferencias hacia cuentas de otros bancos a través de la Oficina Virtual en nuestra página www. Financiera del Norte.com.co por la opción transferencias y también en las Oficinas de Financiera del Norte, con previa matricula de la cuenta."
+    },
+    {
+      "pregunta": "¿ Financiera del Norte me cobra comisiones por el uso de mi Oficina Virtual?",
+      "respuesta": "Sí, dependiendo de la transacción, para conocer este detalle te invitamos a consultar a través de www. Financiera del Norte.com.co en la parte inferior, opción tasas y tarifas y/o en nuestras oficinas físicas."
+    },
+    {
+      "pregunta": "¿Dónde puedo pagar mi Estado de Cuenta?",
+      "respuesta": "El Estado de Cuenta lo puedes pagar por los siguientes canales:\n• La página www. Financiera del Norte.com.co a través de pagos PSE.\n• La Oficina Virtual en el menú de Transacciones.\n• La Banca Móvil en la opción de pagos.\n• Los Cajeros Automáticos de la red Servibanca."
+    },
+    {
+      "pregunta": "¿Cómo puede una empresa acceder a la Oficina virtual?",
+      "respuesta": "Para los clientes Empresariales, Financiera del Norte ofrece la Oficina Virtual Empresarial. Para solicitarla debe contactarse con su Gerente de Cuenta o dirigirse a cualquier Oficina de Financiera del Norte."
+    }
+  ],
+  "guias_paso_a_paso": [
+    {
+      "categoria": "Crédito y Cobranzas",
+      "procedimientos": [
+        {
+          "nombre": "Análisis de Crédito",
+          "pasos": [
+            "Recopilar información sobre el solicitante.",
+            "Evaluar su capacidad de pago.",
+            "Determinar el monto y plazo del crédito."
+          ]
+        },
+        {
+          "nombre": "Proceso de Cobranza",
+          "pasos": [
+            "Registrar las deudas.",
+            "Realizar recordatorios de pago.",
+            "Negociar con los deudores.",
+            "Ejecutar medidas legales si es necesario."
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Operaciones Bancarias",
+      "procedimientos": [
+        {
+          "nombre": "Proceso de Apertura de Cuentas",
+          "pasos": [
+            "Identificar al cliente.",
+            "Recolectar la documentación requerida.",
+            "Evaluar el riesgo.",
+            "Aprobar o rechazar la solicitud."
+          ]
+        },
+        {
+          "nombre": "Proceso de Depósitos y Retiros",
+          "pasos": [
+            "Identificar el depósito o retiro.",
+            "Contabilizar la transacción.",
+            "Verificar la disponibilidad de fondos.",
+            "Ejecutar la transacción."
+          ]
+        }
+      ]
+    }
+  ],
+  "informacion_regulatoria": {
+    "titulo": "Información regulatoria relevante",
+    "aspectos_clave": [
+      {
+        "aspecto": "Protección del consumidor",
+        "descripcion": "La regulación busca proteger los intereses de los clientes financieros, estableciendo normas para la publicidad de productos financieros, la transparencia en las condiciones de los contratos y la resolución de conflictos."
+      },
+      {
+        "aspecto": "Gestión de riesgos",
+        "descripcion": "Las empresas financieras deben tener sistemas internos para identificar, evaluar y controlar los riesgos que pueden afectar sus operaciones, incluyendo riesgos de crédito, mercado y operativos."
+      },
+      {
+        "aspecto": "Información financiera y transparencia",
+        "descripcion": "La regulación exige que las empresas financieras proporcionen información clara y precisa sobre su situación financiera a sus accionistas, clientes y autoridades reguladoras."
+      },
+      {
+        "aspecto": "Lucha contra el lavado de activos",
+        "descripcion": "La regulación requiere que las empresas financieras implementen medidas para prevenir y detectar el lavado de dinero y la financiación del terrorismo."
+      },
+      {
+        "aspecto": "Supervisión y vigilancia",
+        "descripcion": "Las autoridades reguladoras, como bancos centrales y superintendencias financieras, supervisan a las empresas financieras para garantizar que cumplan con las regulaciones y prevenir riesgos sistémicos."
+      },
+      {
+        "aspecto": "Normativa sobre servicios de pago",
+        "descripcion": "La regulación establece normas sobre los servicios de pago, incluyendo tarjetas de crédito, transferencias electrónicas y otros medios de pago."
+      }
+    ]
+  }
+}
